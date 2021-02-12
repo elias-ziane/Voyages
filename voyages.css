@@ -1,0 +1,112 @@
+.picture-left{
+    float: left;
+}
+header{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.39);
+    background-color:black;
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:cursive;
+    border: 0.5rem solid;
+}
+button{
+    color: black;
+    border-width: 10px;
+    border-color: white;
+    border-radius: 75px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 0.7em;
+    padding-right: 1em;
+}
+footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:cursive;
+    }
+.Espagne{
+    font-family: cursive;
+    color:white;
+    background-color:black;
+    letter-spacing: 3px;
+    border: 0.5rem solid;
+    float:right;
+    margin:auto;
+}
+.Canada{
+    font-family: cursive;
+    color:white;
+    background-color:black;
+    letter-spacing: 3px;
+    border: 0.5rem solid;
+    float:right;
+}
+img{
+    height:15vw;
+    width:25vw;
+    margin-right: 25px;
+}
+body{
+    background-image:url(https://www.les-parents-creatifs.com/sites/default/files/styles/desktop_content_header/public/2019-05/xpourquoi-la-terre-est-ronde.jpg,qitok=X3EWYhrA.pagespeed.ic.J9pshRG9ZO.webp);
+    background-attachment:fixed;
+
+}
+.Barcelone{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(0, 0, 0, 0.527);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Andale Mono', Courier, monospace;
+
+}
+.Alicante{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(0, 0, 0, 0.527);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Andale Mono', Courier, monospace;
+
+}
+.Benidorm{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(0, 0, 0, 0.527);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Andale Mono', Courier, monospace;
+  
+}
+.Québec{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(0, 0, 0, 0.527);
+    color:white;
+    text-align:center;
+    float:Center;
+    font-family:'Andale Mono', Courier, monospace;
+ 
+}
+.Toronto{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(0, 0, 0, 0.527);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Andale Mono', Courier, monospace;
+
+}
+.Montréal{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(0, 0, 0, 0.527);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Andale Mono', Courier, monospace;
+
+}
